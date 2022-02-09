@@ -1,0 +1,19 @@
+{
+  "name": "contract-types",
+  "version": "1.0.0",
+  "description": "This repository which includes typechain files of  popular protocols helps developers to reference to typescrip projects.",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@39.106.174.213:liguoming/contract-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "ethers": "^5.5.4"
+  }
+}

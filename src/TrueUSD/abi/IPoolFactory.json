@@ -1,0 +1,51 @@
+{
+  "abi": [
+    {
+      "inputs": [],
+      "name": "getSupportedPools",
+      "outputs": [
+        {
+          "internalType": "contract ITrueFiPool2[]",
+          "name": "",
+          "type": "address[]"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "contract ITrueFiPool2",
+          "name": "pool",
+          "type": "address"
+        }
+      ],
+      "name": "isSupportedPool",
+      "outputs": [
+        {
+          "internalType": "bool",
+          "name": "",
+          "type": "bool"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "supportedPoolsTVL",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x"
+}

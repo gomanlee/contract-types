@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ProxyStorage",
+  "sourceName": "contracts/true-gold/common/ProxyStorage.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122054b9fc03dba68f480b54ea77236a2540c54b91a8a6f63c4248e579ca57f12cac64736f6c634300060a0033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122054b9fc03dba68f480b54ea77236a2540c54b91a8a6f63c4248e579ca57f12cac64736f6c634300060a0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

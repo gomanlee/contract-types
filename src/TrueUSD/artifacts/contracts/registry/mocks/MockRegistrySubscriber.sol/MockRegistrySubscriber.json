@@ -1,0 +1,58 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "MockRegistrySubscriber",
+  "sourceName": "contracts/registry/mocks/MockRegistrySubscriber.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "_who",
+          "type": "address"
+        },
+        {
+          "internalType": "bytes32",
+          "name": "_attribute",
+          "type": "bytes32"
+        }
+      ],
+      "name": "getAttributeValue",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "_who",
+          "type": "address"
+        },
+        {
+          "internalType": "bytes32",
+          "name": "_attribute",
+          "type": "bytes32"
+        },
+        {
+          "internalType": "uint256",
+          "name": "_value",
+          "type": "uint256"
+        }
+      ],
+      "name": "syncAttributeValue",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405234801561001057600080fd5b50610161806100206000396000f3fe608060405234801561001057600080fd5b50600436106100365760003560e01c8063e23c50631461003b578063f5be438914610086575b600080fd5b6100746004803603604081101561005157600080fd5b5073ffffffffffffffffffffffffffffffffffffffff81351690602001356100c7565b60408051918252519081900360200190f35b6100c56004803603606081101561009c57600080fd5b5073ffffffffffffffffffffffffffffffffffffffff81351690602081013590604001356100fa565b005b73ffffffffffffffffffffffffffffffffffffffff91909116600090815260208181526040808320938352929052205490565b73ffffffffffffffffffffffffffffffffffffffff909216600090815260208181526040808320938352929052205556fea2646970667358221220187c882f0e0277fe09e4c4871ac45588a0ad4361a8f26987aef456c980d9e7bd64736f6c634300060a0033",
+  "deployedBytecode": "0x608060405234801561001057600080fd5b50600436106100365760003560e01c8063e23c50631461003b578063f5be438914610086575b600080fd5b6100746004803603604081101561005157600080fd5b5073ffffffffffffffffffffffffffffffffffffffff81351690602001356100c7565b60408051918252519081900360200190f35b6100c56004803603606081101561009c57600080fd5b5073ffffffffffffffffffffffffffffffffffffffff81351690602081013590604001356100fa565b005b73ffffffffffffffffffffffffffffffffffffffff91909116600090815260208181526040808320938352929052205490565b73ffffffffffffffffffffffffffffffffffffffff909216600090815260208181526040808320938352929052205556fea2646970667358221220187c882f0e0277fe09e4c4871ac45588a0ad4361a8f26987aef456c980d9e7bd64736f6c634300060a0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

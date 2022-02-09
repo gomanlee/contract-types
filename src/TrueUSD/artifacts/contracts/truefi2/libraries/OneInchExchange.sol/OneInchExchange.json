@@ -1,0 +1,72 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "OneInchExchange",
+  "sourceName": "contracts/truefi2/libraries/OneInchExchange.sol",
+  "abi": [
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "components": [
+            {
+              "internalType": "address",
+              "name": "srcToken",
+              "type": "address"
+            },
+            {
+              "internalType": "address",
+              "name": "dstToken",
+              "type": "address"
+            },
+            {
+              "internalType": "address",
+              "name": "srcReceiver",
+              "type": "address"
+            },
+            {
+              "internalType": "address",
+              "name": "dstReceiver",
+              "type": "address"
+            },
+            {
+              "internalType": "uint256",
+              "name": "amount",
+              "type": "uint256"
+            },
+            {
+              "internalType": "uint256",
+              "name": "minReturnAmount",
+              "type": "uint256"
+            },
+            {
+              "internalType": "uint256",
+              "name": "flags",
+              "type": "uint256"
+            },
+            {
+              "internalType": "bytes",
+              "name": "permit",
+              "type": "bytes"
+            }
+          ],
+          "indexed": false,
+          "internalType": "struct I1Inch3.SwapDescription",
+          "name": "description",
+          "type": "tuple"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "returnedAmount",
+          "type": "uint256"
+        }
+      ],
+      "name": "Swapped",
+      "type": "event"
+    }
+  ],
+  "bytecode": "0x60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212200cbe88f97fdff2638448079f71000ee0e32a35fcbab5d7c816bf21435fe63ffe64736f6c634300060a0033",
+  "deployedBytecode": "0x73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212200cbe88f97fdff2638448079f71000ee0e32a35fcbab5d7c816bf21435fe63ffe64736f6c634300060a0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

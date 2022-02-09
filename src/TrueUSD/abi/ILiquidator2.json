@@ -1,0 +1,32 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "contract ILoanToken2Deprecated",
+          "name": "loan",
+          "type": "address"
+        }
+      ],
+      "name": "legacyLiquidate",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "contract IDebtToken[]",
+          "name": "debts",
+          "type": "address[]"
+        }
+      ],
+      "name": "liquidate",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x"
+}

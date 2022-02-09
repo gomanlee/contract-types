@@ -1,0 +1,76 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "adjustment",
+          "type": "uint256"
+        }
+      ],
+      "name": "setDecimalAdjustment",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "tokenAmount",
+          "type": "uint256"
+        }
+      ],
+      "name": "tokenToTru",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "tokenAmount",
+          "type": "uint256"
+        }
+      ],
+      "name": "tokenToUsd",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "truAmount",
+          "type": "uint256"
+        }
+      ],
+      "name": "truToToken",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405234801561001057600080fd5b50610156806100206000396000f3fe608060405234801561001057600080fd5b506004361061004c5760003560e01c806320fa6dba146100515780632cb90b4d146100805780632cd4aaba1461009d57806358384833146100ba575b600080fd5b61006e6004803603602081101561006757600080fd5b50356100d9565b60408051918252519081900360200190f35b61006e6004803603602081101561009657600080fd5b50356100f9565b61006e600480360360208110156100b357600080fd5b5035610111565b6100d7600480360360208110156100d057600080fd5b503561011b565b005b60008054600a0a60046402540be400840204816100f257fe5b0492915050565b60008054601203600a0a6317d784008302816100f257fe5b600054600a0a0290565b60005556fea26469706673582212209b48b7a44f0a5500c60cde4af77fe5778ba536a868e45435b8fc6870e09ad97264736f6c634300060a0033",
+  "deployedBytecode": "0x608060405234801561001057600080fd5b506004361061004c5760003560e01c806320fa6dba146100515780632cb90b4d146100805780632cd4aaba1461009d57806358384833146100ba575b600080fd5b61006e6004803603602081101561006757600080fd5b50356100d9565b60408051918252519081900360200190f35b61006e6004803603602081101561009657600080fd5b50356100f9565b61006e600480360360208110156100b357600080fd5b5035610111565b6100d7600480360360208110156100d057600080fd5b503561011b565b005b60008054600a0a60046402540be400840204816100f257fe5b0492915050565b60008054601203600a0a6317d784008302816100f257fe5b600054600a0a0290565b60005556fea26469706673582212209b48b7a44f0a5500c60cde4af77fe5778ba536a868e45435b8fc6870e09ad97264736f6c634300060a0033"
+}
