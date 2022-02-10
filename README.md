@@ -5,3 +5,5 @@ This repository which includes typechain files of  popular protocols helps devel
 * Compound - [compound protocol](https://github.com/compound-finance/compound-protocol "Github")
 * TrueUSD - [True USD smart contracts]()
 * OpenZeppelin - [OpenZeppelin contracts]()
+
+hardhat/hardhat.config.js is an example reference.
