@@ -19,6 +19,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
     return result;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.TrueUSD = exports.Compound = void 0;
+exports.OpenZeppelin = exports.TrueUSD = exports.Compound = void 0;
 exports.Compound = __importStar(require("./Compound/types"));
 exports.TrueUSD = __importStar(require("./TrueUSD/types"));
+exports.OpenZeppelin = __importStar(require("./OpenZeppelin/types"));
