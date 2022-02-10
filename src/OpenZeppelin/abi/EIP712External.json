@@ -1,0 +1,6 @@
+[
+  "constructor(string,string)",
+  "function domainSeparator() view returns (bytes32)",
+  "function getChainId() view returns (uint256)",
+  "function verify(bytes,address,address,string) view"
+]

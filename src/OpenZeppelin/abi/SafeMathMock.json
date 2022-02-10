@@ -1,0 +1,20 @@
+[
+  "function addMemoryCheck() pure returns (uint256)",
+  "function divMemoryCheck() pure returns (uint256)",
+  "function divWithMessage(uint256,uint256,string) pure returns (uint256)",
+  "function doAdd(uint256,uint256) pure returns (uint256)",
+  "function doDiv(uint256,uint256) pure returns (uint256)",
+  "function doMod(uint256,uint256) pure returns (uint256)",
+  "function doMul(uint256,uint256) pure returns (uint256)",
+  "function doSub(uint256,uint256) pure returns (uint256)",
+  "function modMemoryCheck() pure returns (uint256)",
+  "function modWithMessage(uint256,uint256,string) pure returns (uint256)",
+  "function mulMemoryCheck() pure returns (uint256)",
+  "function subMemoryCheck() pure returns (uint256)",
+  "function subWithMessage(uint256,uint256,string) pure returns (uint256)",
+  "function tryAdd(uint256,uint256) pure returns (bool, uint256)",
+  "function tryDiv(uint256,uint256) pure returns (bool, uint256)",
+  "function tryMod(uint256,uint256) pure returns (bool, uint256)",
+  "function tryMul(uint256,uint256) pure returns (bool, uint256)",
+  "function trySub(uint256,uint256) pure returns (bool, uint256)"
+]

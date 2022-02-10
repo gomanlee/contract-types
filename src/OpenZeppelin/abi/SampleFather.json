@@ -1,0 +1,8 @@
+[
+  "function father() view returns (uint256)",
+  "function gramps() view returns (string)",
+  "function initialize()",
+  "function initialize(string,uint256)",
+  "function initialize(string)",
+  "function isHuman() view returns (bool)"
+]

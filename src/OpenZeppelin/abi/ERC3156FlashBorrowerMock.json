@@ -1,0 +1,6 @@
+[
+  "constructor(bool,bool)",
+  "event BalanceOf(address,address,uint256)",
+  "event TotalSupply(address,uint256)",
+  "function onFlashLoan(address,address,uint256,uint256,bytes) returns (bytes32)"
+]

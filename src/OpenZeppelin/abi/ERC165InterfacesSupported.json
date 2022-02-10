@@ -1,0 +1,5 @@
+[
+  "constructor(bytes4[])",
+  "function INTERFACE_ID_ERC165() view returns (bytes4)",
+  "function supportsInterface(bytes4) view returns (bool)"
+]

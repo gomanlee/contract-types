@@ -1,0 +1,9 @@
+[
+  "event OperationResult(bool)",
+  "function add(uint256)",
+  "function at(uint256) view returns (uint256)",
+  "function contains(uint256) view returns (bool)",
+  "function length() view returns (uint256)",
+  "function remove(uint256)",
+  "function values() view returns (uint256[])"
+]

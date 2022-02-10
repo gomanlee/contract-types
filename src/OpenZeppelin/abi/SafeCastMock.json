@@ -1,0 +1,16 @@
+[
+  "function toInt128(int256) pure returns (int128)",
+  "function toInt16(int256) pure returns (int16)",
+  "function toInt256(uint256) pure returns (int256)",
+  "function toInt32(int256) pure returns (int32)",
+  "function toInt64(int256) pure returns (int64)",
+  "function toInt8(int256) pure returns (int8)",
+  "function toUint128(uint256) pure returns (uint128)",
+  "function toUint16(uint256) pure returns (uint16)",
+  "function toUint224(uint256) pure returns (uint224)",
+  "function toUint256(int256) pure returns (uint256)",
+  "function toUint32(uint256) pure returns (uint32)",
+  "function toUint64(uint256) pure returns (uint64)",
+  "function toUint8(uint256) pure returns (uint8)",
+  "function toUint96(uint256) pure returns (uint96)"
+]

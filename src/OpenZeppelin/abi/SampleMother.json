@@ -1,0 +1,6 @@
+[
+  "function initialize()",
+  "function initialize(uint256)",
+  "function isHuman() view returns (bool)",
+  "function mother() view returns (uint256)"
+]

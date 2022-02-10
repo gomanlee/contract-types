@@ -1,0 +1,10 @@
+[
+  "constructor(address)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "event Upgraded(address indexed)",
+  "function implementation() view returns (address)",
+  "function owner() view returns (address)",
+  "function renounceOwnership()",
+  "function transferOwnership(address)",
+  "function upgradeTo(address)"
+]

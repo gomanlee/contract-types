@@ -1,0 +1,9 @@
+[
+  "function getDeadline() view returns (uint64)",
+  "function isExpired() view returns (bool)",
+  "function isPending() view returns (bool)",
+  "function isStarted() view returns (bool)",
+  "function isUnset() view returns (bool)",
+  "function reset()",
+  "function setDeadline(uint64)"
+]

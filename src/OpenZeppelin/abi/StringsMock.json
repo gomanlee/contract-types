@@ -1,0 +1,5 @@
+[
+  "function fromUint256(uint256) pure returns (string)",
+  "function fromUint256Hex(uint256) pure returns (string)",
+  "function fromUint256HexFixed(uint256,uint256) pure returns (string)"
+]

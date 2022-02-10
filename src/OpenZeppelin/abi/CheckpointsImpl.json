@@ -1,0 +1,5 @@
+[
+  "function getAtBlock(uint256) view returns (uint256)",
+  "function latest() view returns (uint256)",
+  "function push(uint256) returns (uint256, uint256)"
+]

@@ -1,0 +1,20 @@
+[
+  "constructor(address)",
+  "event Deposited(address indexed,uint256)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "event RefundsClosed()",
+  "event RefundsEnabled()",
+  "event Withdrawn(address indexed,uint256)",
+  "function beneficiary() view returns (address)",
+  "function beneficiaryWithdraw()",
+  "function close()",
+  "function deposit(address) payable",
+  "function depositsOf(address) view returns (uint256)",
+  "function enableRefunds()",
+  "function owner() view returns (address)",
+  "function renounceOwnership()",
+  "function state() view returns (uint8)",
+  "function transferOwnership(address)",
+  "function withdraw(address)",
+  "function withdrawalAllowed(address) view returns (bool)"
+]

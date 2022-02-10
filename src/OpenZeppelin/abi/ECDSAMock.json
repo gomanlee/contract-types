@@ -1,0 +1,7 @@
+[
+  "function recover(bytes32,bytes) pure returns (address)",
+  "function recover_r_vs(bytes32,bytes32,bytes32) pure returns (address)",
+  "function recover_v_r_s(bytes32,uint8,bytes32,bytes32) pure returns (address)",
+  "function toEthSignedMessageHash(bytes32) pure returns (bytes32)",
+  "function toEthSignedMessageHash(bytes) pure returns (bytes32)"
+]

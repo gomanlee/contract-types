@@ -1,0 +1,12 @@
+[
+  "function fail() pure",
+  "function initialize()",
+  "function initializeOnlyInitializing()",
+  "function initializeWithX(uint256) payable",
+  "function initializerNested()",
+  "function initializerRan() view returns (bool)",
+  "function nonInitializable(uint256) payable",
+  "function onlyInitializingNested()",
+  "function onlyInitializingRan() view returns (bool)",
+  "function x() view returns (uint256)"
+]

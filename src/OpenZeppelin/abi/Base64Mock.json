@@ -1,0 +1,3 @@
+[
+  "function encode(bytes) pure returns (string)"
+]

@@ -1,0 +1,6 @@
+[
+  "constructor()",
+  "function execute(tuple(address,address,uint256,uint256,uint256,bytes),bytes) payable returns (bool, bytes)",
+  "function getNonce(address) view returns (uint256)",
+  "function verify(tuple(address,address,uint256,uint256,uint256,bytes),bytes) view returns (bool)"
+]

@@ -1,0 +1,6 @@
+[
+  "event NewInstance(address)",
+  "function clone(address,bytes) payable",
+  "function cloneDeterministic(address,bytes32,bytes) payable",
+  "function predictDeterministicAddress(address,bytes32) view returns (address)"
+]

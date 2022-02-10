@@ -1,0 +1,16 @@
+[
+  "event BeforeTokenTransfer()",
+  "event TokensReceivedCalled(address,address,address,uint256,bytes,bytes,address,uint256,uint256)",
+  "event TokensToSendCalled(address,address,address,uint256,bytes,bytes,address,uint256,uint256)",
+  "function burn(address,uint256,bytes)",
+  "function canImplementInterfaceForAddress(bytes32,address) view returns (bytes32)",
+  "function recipientFor(address)",
+  "function registerRecipient(address)",
+  "function registerSender(address)",
+  "function send(address,address,uint256,bytes)",
+  "function senderFor(address)",
+  "function setShouldRevertReceive(bool)",
+  "function setShouldRevertSend(bool)",
+  "function tokensReceived(address,address,address,uint256,bytes,bytes)",
+  "function tokensToSend(address,address,address,uint256,bytes,bytes)"
+]

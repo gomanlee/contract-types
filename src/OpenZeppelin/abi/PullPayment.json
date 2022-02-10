@@ -1,0 +1,4 @@
+[
+  "function payments(address) view returns (uint256)",
+  "function withdrawPayments(address)"
+]

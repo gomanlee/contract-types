@@ -1,0 +1,6 @@
+[
+  "function get(uint256) view returns (bool)",
+  "function set(uint256)",
+  "function setTo(uint256,bool)",
+  "function unset(uint256)"
+]

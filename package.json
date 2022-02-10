@@ -1,6 +1,6 @@
 {
   "name": "contract-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This repository which includes typechain files of  popular protocols helps developers to reference to typescrip projects.",
   "main": "./dist/index.js",
   "types": "./types/index.d.ts",
@@ -16,5 +16,8 @@
   "license": "ISC",
   "peerDependencies": {
     "ethers": "^5.5.4"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.3"
   }
 }

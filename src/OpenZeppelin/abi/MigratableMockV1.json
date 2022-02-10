@@ -1,0 +1,4 @@
+[
+  "function initialize(uint256) payable",
+  "function x() view returns (uint256)"
+]

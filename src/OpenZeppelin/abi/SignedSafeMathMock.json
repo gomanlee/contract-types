@@ -1,0 +1,6 @@
+[
+  "function add(int256,int256) pure returns (int256)",
+  "function div(int256,int256) pure returns (int256)",
+  "function mul(int256,int256) pure returns (int256)",
+  "function sub(int256,int256) pure returns (int256)"
+]

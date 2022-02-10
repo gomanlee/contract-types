@@ -1,0 +1,10 @@
+[
+  "event CallReturnValue(string)",
+  "function functionCall(address,bytes)",
+  "function functionCallWithValue(address,bytes,uint256) payable",
+  "function functionDelegateCall(address,bytes)",
+  "function functionStaticCall(address,bytes)",
+  "function isContract(address) view returns (bool)",
+  "function sendValue(address,uint256)",
+  "function sharedAnswer() view returns (string)"
+]

@@ -1,0 +1,7 @@
+[
+  "constructor()",
+  "function initialize()",
+  "function initializeOnlyInitializing()",
+  "function initializerRan() view returns (bool)",
+  "function onlyInitializingRan() view returns (bool)"
+]

@@ -1,0 +1,10 @@
+[
+  "constructor(address)",
+  "function allowance() view returns (uint256)",
+  "function approve(uint256)",
+  "function decreaseAllowance(uint256)",
+  "function increaseAllowance(uint256)",
+  "function setAllowance(uint256)",
+  "function transfer()",
+  "function transferFrom()"
+]

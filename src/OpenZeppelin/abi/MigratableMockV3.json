@@ -1,0 +1,7 @@
+[
+  "function initialize(uint256) payable",
+  "function migrate(uint256,uint256) payable",
+  "function migrate() payable",
+  "function x() view returns (uint256)",
+  "function y() view returns (uint256)"
+]

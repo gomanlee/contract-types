@@ -1,0 +1,14 @@
+[
+  "constructor(address,uint64,uint64)",
+  "event ERC20Released(address indexed,uint256)",
+  "event EtherReleased(uint256)",
+  "function beneficiary() view returns (address)",
+  "function duration() view returns (uint256)",
+  "function release(address)",
+  "function release()",
+  "function released() view returns (uint256)",
+  "function released(address) view returns (uint256)",
+  "function start() view returns (uint256)",
+  "function vestedAmount(uint64) view returns (uint256)",
+  "function vestedAmount(address,uint64) view returns (uint256)"
+]

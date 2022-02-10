@@ -1,0 +1,10 @@
+[
+  "event OperationResult(bool)",
+  "function at(uint256) view returns (address, uint256)",
+  "function contains(address) view returns (bool)",
+  "function get(address) view returns (uint256)",
+  "function length() view returns (uint256)",
+  "function remove(address)",
+  "function set(address,uint256)",
+  "function tryGet(address) view returns (bool, uint256)"
+]

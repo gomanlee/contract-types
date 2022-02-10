@@ -1,0 +1,6 @@
+[
+  "function average(uint256,uint256) pure returns (uint256)",
+  "function ceilDiv(uint256,uint256) pure returns (uint256)",
+  "function max(uint256,uint256) pure returns (uint256)",
+  "function min(uint256,uint256) pure returns (uint256)"
+]

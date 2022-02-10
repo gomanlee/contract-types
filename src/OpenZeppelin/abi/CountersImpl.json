@@ -1,0 +1,6 @@
+[
+  "function current() view returns (uint256)",
+  "function decrement()",
+  "function increment()",
+  "function reset()"
+]

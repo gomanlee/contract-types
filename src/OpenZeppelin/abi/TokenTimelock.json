@@ -1,0 +1,7 @@
+[
+  "constructor(address,address,uint256)",
+  "function beneficiary() view returns (address)",
+  "function release()",
+  "function releaseTime() view returns (uint256)",
+  "function token() view returns (address)"
+]

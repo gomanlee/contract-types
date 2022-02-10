@@ -1,0 +1,6 @@
+[
+  "function getSupportedInterfaces(address,bytes4[]) view returns (bool[])",
+  "function supportsAllInterfaces(address,bytes4[]) view returns (bool)",
+  "function supportsERC165(address) view returns (bool)",
+  "function supportsInterface(address,bytes4) view returns (bool)"
+]

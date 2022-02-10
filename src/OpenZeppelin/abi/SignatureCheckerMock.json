@@ -1,0 +1,3 @@
+[
+  "function isValidSignatureNow(address,bytes32,bytes) view returns (bool)"
+]

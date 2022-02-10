@@ -1,0 +1,9 @@
+[
+  "event OperationResult(bool)",
+  "function add(bytes32)",
+  "function at(uint256) view returns (bytes32)",
+  "function contains(bytes32) view returns (bool)",
+  "function length() view returns (uint256)",
+  "function remove(bytes32)",
+  "function values() view returns (bytes32[])"
+]

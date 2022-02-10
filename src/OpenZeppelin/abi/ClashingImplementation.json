@@ -1,0 +1,4 @@
+[
+  "function admin() pure returns (address)",
+  "function delegatedFunction() pure returns (bool)"
+]

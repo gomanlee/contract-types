@@ -1,0 +1,12 @@
+[
+  "constructor()",
+  "event Paused(address)",
+  "event Unpaused(address)",
+  "function count() view returns (uint256)",
+  "function drasticMeasure()",
+  "function drasticMeasureTaken() view returns (bool)",
+  "function normalProcess()",
+  "function pause()",
+  "function paused() view returns (bool)",
+  "function unpause()"
+]

@@ -1,0 +1,8 @@
+[
+  "constructor(address)",
+  "event Data(bytes,uint256,string)",
+  "event Sender(address)",
+  "function isTrustedForwarder(address) view returns (bool)",
+  "function msgData(uint256,string)",
+  "function msgSender()"
+]

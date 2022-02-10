@@ -1,0 +1,13 @@
+[
+  "function get() pure returns (bool)",
+  "function initialize(uint256,string,uint256[])",
+  "function initializeNonPayable()",
+  "function initializeNonPayableWithValue(uint256)",
+  "function initializePayable() payable",
+  "function initializePayableWithValue(uint256) payable",
+  "function reverts() pure",
+  "function text() view returns (string)",
+  "function value() view returns (uint256)",
+  "function values(uint256) view returns (uint256)",
+  "function version() pure returns (string)"
+]

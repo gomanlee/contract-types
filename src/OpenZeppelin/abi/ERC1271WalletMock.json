@@ -1,0 +1,8 @@
+[
+  "constructor(address)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function isValidSignature(bytes32,bytes) view returns (bytes4)",
+  "function owner() view returns (address)",
+  "function renounceOwnership()",
+  "function transferOwnership(address)"
+]

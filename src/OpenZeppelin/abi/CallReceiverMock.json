@@ -1,0 +1,14 @@
+[
+  "event MockFunctionCalled()",
+  "event MockFunctionCalledWithArgs(uint256,uint256)",
+  "function mockFunction() payable returns (string)",
+  "function mockFunctionNonPayable() returns (string)",
+  "function mockFunctionOutOfGas() payable",
+  "function mockFunctionRevertsNoReason() payable",
+  "function mockFunctionRevertsReason() payable",
+  "function mockFunctionThrows() payable",
+  "function mockFunctionWithArgs(uint256,uint256) payable returns (string)",
+  "function mockFunctionWritesStorage() returns (string)",
+  "function mockStaticFunction() pure returns (string)",
+  "function sharedAnswer() view returns (string)"
+]

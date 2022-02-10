@@ -1,0 +1,6 @@
+[
+  "function gramps() view returns (string)",
+  "function initialize()",
+  "function initialize(string)",
+  "function isHuman() view returns (bool)"
+]

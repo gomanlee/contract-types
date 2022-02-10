@@ -1,0 +1,10 @@
+[
+  "function getAddress(bytes32) view returns (address)",
+  "function getBoolean(bytes32) view returns (bool)",
+  "function getBytes32(bytes32) view returns (bytes32)",
+  "function getUint256(bytes32) view returns (uint256)",
+  "function setAddress(bytes32,address)",
+  "function setBoolean(bytes32,bool)",
+  "function setBytes32(bytes32,bytes32)",
+  "function setUint256(bytes32,uint256)"
+]
